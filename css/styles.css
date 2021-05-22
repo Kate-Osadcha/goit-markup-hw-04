@@ -443,8 +443,6 @@ body {
   flex-wrap: nowrap;
 }
 
-
-
 .link-logo-footer {
   font-family: var(--secondary-font);
   font-weight: 700;
@@ -460,7 +458,6 @@ body {
   margin-top: 20px;
   margin-right: 70px;
 }
-
 
 .contact-list-item:not(:last-child) {
   margin-bottom: 9px;
@@ -487,7 +484,6 @@ body {
 }
 .appeal-list {
   display: flex;
-  
 }
 
 .appeal-list-item {
